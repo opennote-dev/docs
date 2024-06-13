@@ -2,7 +2,7 @@
 
 ### Head of Business (Remote)&#x20;
 
-* Resposible for handling pitches, business metrics, financial information, and more related to the business side of operations.&#x20;
+* Responsible for handling pitches, business metrics, financial information, and more related to the business side of operations.&#x20;
 * Interested? Email us at `hiring@opennote.me` with the subject "BUSINESS HEAD APPLICATION"
 
 
