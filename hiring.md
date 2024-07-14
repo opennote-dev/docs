@@ -39,7 +39,7 @@ If you tune your workflow for maximum efficiency, test developer tools, or gener
 * Have a strong understanding of Linux systems and CLI tools, as well as general design interfaces and UX experiences for these tools. &#x20;
 * Develop scripts to automate remote connections, run watchfiles threads, and automate processes for developers to have amazing experiences.&#x20;
 * Enjoy building expertise around the infrastructure and platforms.&#x20;
-* Are intensely motivated, and ready to take on difficult engineering challenges, and write secure, clean, and efficient software, focusing on amazing user experiences.&#x20;
+* Are intensely motivated, and ready to take on difficult engineering challenges, and write secure, clean, and efficient software, focusing on amazing user experiences, and _willing to learn_.
 
 **Here's what we've currently done:**&#x20;
 
@@ -49,8 +49,6 @@ If you tune your workflow for maximum efficiency, test developer tools, or gener
 * The ability for a user to deploy their automated fine-tuned LLMs to HuggingFace and other Developer Clouds
 * Detailed documentation, development, and more for a very streamlined UX.&#x20;
 * Fine-tuned a variety of Foundational Models on a variety of Datasets, both for development and for our parent site, [https://opennote.me](https://opennote.me) (check it out!)
-
-
 
 **Minimum Qualifications**&#x20;
 
@@ -62,13 +60,54 @@ If you tune your workflow for maximum efficiency, test developer tools, or gener
 
 _We're still seeking investors, so we can't yet offer payment for this role. It will currently include equity and the ability to earn a salary after seed funding._&#x20;
 
-We
-
 Learn more about `tuna` here: [https://github.com/abhi-arya1/tuna](https://github.com/abhi-arya1/tuna?tab=readme-ov-file)
 
 If you have any questions, please send an email to `tech.opennote@gmail.com` with the subject line  **QUESTION: Cloud Platform Engineer.**&#x20;
 
 _**Apply Now:**_ [_**https://forms.gle/c6M6wGrJunp3Ac1y6**_](https://forms.gle/c6M6wGrJunp3Ac1y6)
+
+***
+
+
+
+
+
+## Full Stack Developer Intern
+
+We're looking for a talented and motivated full stack engineer who has expertise in Vercel, NextJS, Clerk, ConvexDB, and a couple other services.&#x20;
+
+You'll primarily be working on Opennote's core product, [https://opennote.me](https://opennote.me), designing and building the user-facing end of the future of edtech.
+
+The core of Opennote is our integrations and abilities, and you'll be working on implementing frontends for ML models for Mock Coding Interviews, Code Editing, Code Running, MCAT Preparation, Practice Problems, Flashcard Panes, and a variety of other fun things here!
+
+If you're determined to design efficient, clean, and good-looking software, and enjoy the design language of Apple, Anduril, Palantir, and more, then this role is a great fit for you!
+
+**Our engineers currently:**
+
+* Work in TypeScript within Next.js, with React and TailwindCSS
+* Create wonderful user experiences with the power of pure code.&#x20;
+* Integrate with GitHub, Notion, Obsidian, and Google Drive APIs to bring a variety of services.&#x20;
+* Design infrastructure and schematics for backend engineers.&#x20;
+* Work to provide a safe and secure user experience for all students, including secure edge functions written in TypeScript for Convex, Vercel, and more.&#x20;
+* Are intensely motivated, and ready to take on difficult engineering challenges, and write secure, clean, and efficient software, focusing on amazing user experiences _and willing to learn_.
+
+We've currently done everything present on our site, [https://opennote.me](https://opennote.me), so check that out!
+
+**Minimum Qualifications**&#x20;
+
+* Currently a student at a United States higher-education Institution, such as, but not limited to a 4-year college or university.
+  * **This role is currently **_**ONLY**_** open to US students**
+* Experience with TypeScript, Vercel, Next.js, React, TailwindCSS
+* Experience with Clerk, Convex, and Stripe preferred but not required!
+* Motivation to learn, adapt, and grow with the team.&#x20;
+
+_We're still seeking investors, so we can't yet offer payment for this role. It will currently include equity and the ability to earn a salary after seed funding._&#x20;
+
+If you have any questions, please send an email to `tech.opennote@gmail.com` with the subject line  **QUESTION: Full Stack Dev.**&#x20;
+
+_**Apply Now:**_ [**https://forms.gle/GgwyZLti7gaiJhN48**](https://forms.gle/GgwyZLti7gaiJhN48)
+
+
 
 ***
 
