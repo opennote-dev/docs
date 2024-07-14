@@ -14,8 +14,6 @@ Our developers, founders, and employees here at Opennote take on many hats. We'r
 
 Questions about applying? Email `tech.opennote@gmail.com`
 
-
-
 _Open Positions Below:_&#x20;
 
 ***
@@ -37,6 +35,7 @@ If you tune your workflow for maximum efficiency, test developer tools, or gener
 * Work in Python, and Bash, with the potential of including _Zig_ and _Golang_ primarily.
 * Fine-Tune a variety of Foundational Models on a variety of Datasets&#x20;
 * Have a strong understanding of Linux systems and CLI tools, as well as general design interfaces and UX experiences for these tools. &#x20;
+* Design unittests to make sure that the CI/CD workflow works.&#x20;
 * Develop scripts to automate remote connections, run watchfiles threads, and automate processes for developers to have amazing experiences.&#x20;
 * Enjoy building expertise around the infrastructure and platforms.&#x20;
 * Are intensely motivated, and ready to take on difficult engineering challenges, and write secure, clean, and efficient software, focusing on amazing user experiences, and _willing to learn_.
@@ -57,6 +56,7 @@ If you tune your workflow for maximum efficiency, test developer tools, or gener
 * Experience with Python, Bash, and scripting for computation.&#x20;
   * _OR_ experience with React/Next.js for frontend engineering to bring the Tuna platform to more users!
 * Motivation to learn, adapt, and grow with the team.&#x20;
+* Experience working with teams on software, following "sprint" styles of management
 
 _We're still seeking investors, so we can't yet offer payment for this role. It will currently include equity and the ability to earn a salary after seed funding._&#x20;
 
@@ -66,9 +66,9 @@ If you have any questions, please send an email to `tech.opennote@gmail.com` wit
 
 _**Apply Now:**_ [_**https://forms.gle/c6M6wGrJunp3Ac1y6**_](https://forms.gle/c6M6wGrJunp3Ac1y6)
 
+
+
 ***
-
-
 
 
 
@@ -100,6 +100,7 @@ We've currently done everything present on our site, [https://opennote.me](https
 * Experience with TypeScript, Vercel, Next.js, React, TailwindCSS
 * Experience with Clerk, Convex, and Stripe preferred but not required!
 * Motivation to learn, adapt, and grow with the team.&#x20;
+* Experience working with teams on software, following "sprint" styles of management
 
 _We're still seeking investors, so we can't yet offer payment for this role. It will currently include equity and the ability to earn a salary after seed funding._&#x20;
 
