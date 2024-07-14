@@ -57,6 +57,7 @@ If you tune your workflow for maximum efficiency, test developer tools, or gener
 * Currently a student at a United States higher-education Institution, such as, but not limited to a 4-year college or university.
   * **This role is currently **_**ONLY**_** open to US students**
 * Experience with Python, Bash, and scripting for computation.&#x20;
+  * _OR_ experience with React/Next.js for frontend engineering to bring the Tuna platform to more users!
 * Motivation to learn, adapt, and grow with the team.&#x20;
 
 _We're still seeking investors, so we can't yet offer payment for this role. It will currently include equity and the ability to earn a salary after seed funding._&#x20;
