@@ -17,7 +17,7 @@ You can find us on LinkedIn below:&#x20;
 
 Want to chat with the team? Reach out to us at `support@opennote.me`!&#x20;
 
-We're looking for new members of the team! Check out [Open Roles](open-roles.md)!
+We're looking for new members of the team! Check out [Open Roles](hiring.md)!
 
 Thanks for reading!
 

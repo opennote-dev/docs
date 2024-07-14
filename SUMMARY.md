@@ -6,4 +6,4 @@
 * [📃 Terms and Conditions](terms-and-conditions.md)
 * [🔒 Privacy Policy](privacy-policy.md)
 * [📊 Data Usage Policy](data-usage-policy.md)
-* [🌎 Open Roles](open-roles.md)
+* [🌎 Hiring](hiring.md)
