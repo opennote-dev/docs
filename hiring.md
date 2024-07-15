@@ -32,7 +32,7 @@ If you tune your workflow for maximum efficiency, test developer tools, or gener
 
 **Our engineers currently:**
 
-* Work in Python, and Bash, with the potential of including _Zig_ and _Golang_ primarily.
+* Work in Python, and Bash primarily, with the potential of including _Zig_ and _Golang._
 * Fine-Tune a variety of Foundational Models on a variety of Datasets&#x20;
 * Have a strong understanding of Linux systems and CLI tools, as well as general design interfaces and UX experiences for these tools. &#x20;
 * Design unittests to make sure that the CI/CD workflow works.&#x20;
@@ -58,7 +58,7 @@ If you tune your workflow for maximum efficiency, test developer tools, or gener
 * Motivation to learn, adapt, and grow with the team.&#x20;
 * Experience working with teams on software, following "sprint" styles of management
 
-_We're still seeking investors, so we can't yet offer payment for this role. It will currently include equity and the ability to earn a salary after seed funding._&#x20;
+_We're still seeking investors, so we can't yet offer payment for this role. It will currently include the ability to earn a salary after seed funding._&#x20;
 
 Learn more about `tuna` here: [https://github.com/abhi-arya1/tuna](https://github.com/abhi-arya1/tuna?tab=readme-ov-file)
 
@@ -102,7 +102,7 @@ We've currently done everything present on our site, [https://opennote.me](https
 * Motivation to learn, adapt, and grow with the team.&#x20;
 * Experience working with teams on software, following "sprint" styles of management
 
-_We're still seeking investors, so we can't yet offer payment for this role. It will currently include equity and the ability to earn a salary after seed funding._&#x20;
+_We're still seeking investors, so we can't yet offer payment for this role. It will currently the ability to earn a salary after seed funding._&#x20;
 
 If you have any questions, please send an email to `tech.opennote@gmail.com` with the subject line  **QUESTION: Full Stack Dev.**&#x20;
 
